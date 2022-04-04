@@ -10,7 +10,7 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import ShakaPlayer from 'shaka-player-react';
 import 'shaka-player/dist/controls.css';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
+
 import Player from './Player';
 
 
