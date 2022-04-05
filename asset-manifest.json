@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/THE-BKS/repobksplayer/static/css/main.419d6df4.css",
+    "main.js": "/THE-BKS/repobksplayer/static/js/main.df5a0d5d.js",
+    "static/js/787.357a31c4.chunk.js": "/THE-BKS/repobksplayer/static/js/787.357a31c4.chunk.js",
+    "index.html": "/THE-BKS/repobksplayer/index.html",
+    "main.419d6df4.css.map": "/THE-BKS/repobksplayer/static/css/main.419d6df4.css.map",
+    "main.df5a0d5d.js.map": "/THE-BKS/repobksplayer/static/js/main.df5a0d5d.js.map",
+    "787.357a31c4.chunk.js.map": "/THE-BKS/repobksplayer/static/js/787.357a31c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.419d6df4.css",
+    "static/js/main.df5a0d5d.js"
+  ]
+}
